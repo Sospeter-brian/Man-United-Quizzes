@@ -1,7 +1,8 @@
 # Quizz App.
 *By Sospeter Brian Murangiri.*
 ## Description
-<sub>The above project is a React application that allows a user to answer displayed questions about manchester united club and it results and displays the correct answer.I created a RESTfil API using  json server that fetches the questions,displays them,allows deletion and updates when a new question is added.I incorporated React CRUD operations to help achieve this.
+
+<sub>The above project is a React application that allows a user to answer displayed questions about manchester united club and it results and displays the correct answer.I created a RESTful API using  json server that fetches the questions,displays them,allows deletion and updates when a new question is added.I incorporated React CRUD operations to help achieve this.
   .</sub>
 ### Requirements
 Acesss to internet so as to search and load the display output.
