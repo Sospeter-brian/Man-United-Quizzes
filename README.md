@@ -17,6 +17,6 @@ Acesss to internet so as to search and load the display output.
 
 #### Resources
 
-***google-conducted research on the project and to to implement it***
+***google-conducted research on the project and how to implement it***
 
 
